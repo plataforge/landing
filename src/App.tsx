@@ -1,7 +1,8 @@
 import React from "react";
 import "./App.css";
 import logo from "./logo.png";
-import { FaTwitter, FaGithub } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 function App() {
   return (
@@ -34,7 +35,7 @@ function App() {
           href="https://twitter.com/platamarkets"
           className="hover:underline mx-2"
         >
-          <FaTwitter className="inline-block mr-2 text-2xl" />
+          <FaXTwitter className="inline-block mr-2 text-2xl" />
         </a>
         <a
           href="https://www.github.com/platamarkets"
