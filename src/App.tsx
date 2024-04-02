@@ -17,7 +17,7 @@ function App() {
       {/* Content */}
       <div className="text-white text-center">
         <h1 className="text-4xl sm:text-3xl md:text-5xl font-bold">
-          Plata Markets
+          Plata Forge
         </h1>
         <br />
         <br />
@@ -29,16 +29,16 @@ function App() {
       {/* Footer */}
       <footer className="fixed bottom-0 w-full py-4 text-white text-sm flex items-center justify-center mb-8">
         <h3 className="text-base sm:text-base md:text-base mr-9">
-          © 2024 PlataMarkets. All Rights Reserved.
+          © 2024 PlataForge. All Rights Reserved.
         </h3>
         <a
-          href="https://twitter.com/platamarkets"
+          href="https://twitter.com/plataforge"
           className="hover:underline mx-2"
         >
           <FaXTwitter className="inline-block mr-2 text-2xl" />
         </a>
         <a
-          href="https://www.github.com/platamarkets"
+          href="https://www.github.com/plataforge"
           className="hover:underline mx-2"
         >
           <FaGithub className="inline-block mr-2  text-2xl" />
